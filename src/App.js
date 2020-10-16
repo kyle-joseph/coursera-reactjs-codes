@@ -20,7 +20,7 @@ class App extends Component{
         <Navbar dark color="primary">
           <div className="container">
             <NavbarBrand href="/">
-              Kyle Joseph
+              Ristorante Con Fusion
             </NavbarBrand>
           </div>
         </Navbar>
